@@ -17,9 +17,6 @@ Workflow language: ImageJ macro
 <img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Solidity_Flatten_Manual.png" width="250" title="Domains colored by solidity value"> 
 	<br/> <br/> </p>
 
-It assumes that the samples are carefully posioned and sectioned so that z-projection capture their shape correctly, and that z-projection was done prior to running the macro
-The macro relies on (auto-context) pixel classification with Ilastik, it assumes that the given classifier was trained to predict fibrillar collagen (first class) vs crypt (second class)
-
 NOTE: Before running the macro make sure to: 
 1. Scale and Crop images eg using ScaleAndCropImages.ijm macro 
 2. If you are using EM images - Run ilastik segmentation either using RunIlastikHeadless.bat (or through batch using ilastik GUI)
@@ -117,6 +114,14 @@ The ROIs are read either from manually corrected file (*FN_DomainRoiSet_Manual.z
 - click "Update"
   
 - otherwise you can delete the ROI and draw another one instead 
+
+### Merge adjucent Rois
+
+From the Roi Manger
+- Highlight the 2 adjucent Rois 
+- Select More=>OR
+- Click Update , the first Roi will be updated to the combined object
+- Delete the second Roi
   
 ### Add non-detected object
 - You can draw a ROI using one of the drawing tools 
