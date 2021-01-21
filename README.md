@@ -11,10 +11,10 @@ Software package: Fiji (ImageJ), Ilastik
 Workflow language: ImageJ macro
 
 <p align="center">
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32.png" width="250" title="Original image">
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Overlay_Manual.png" width="250" title="Overlay of domain borders after manual correction"> <br/> <br/>
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Area_Flatten_Manual.png" width="250" title="Domains colored by area value">
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Solidity_Flatten_Manual.png" width="250" title="Domains colored by solidity value"> 
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32.png" width="400" title="Original image">
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Overlay_Manual.png" width="400" title="Overlay of domain borders after manual correction"> <br/> <br/>
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Area_Flatten_Manual.png" width="400" title="Domains colored by area value">
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Solidity_Flatten_Manual.png" width="400" title="Domains colored by solidity value"> 
 	<br/> <br/> </p>
 
 NOTE: Before running the macro make sure to: 
@@ -115,7 +115,7 @@ The ROIs are read either from manually corrected file (*FN_DomainRoiSet_Manual.z
   
 - otherwise you can delete the ROI and draw another one instead 
 
-### Merge adjucent Rois
+### Merge adjacent Rois
 
 From the Roi Manger
 - Highlight the 2 adjucent Rois 
