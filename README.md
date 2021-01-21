@@ -138,6 +138,4 @@ When done with all corrections make sure to
  
 ## Notes Regarding Ilastik Classifier
 - If your data include images with different contrast, make sure to include  representative images of all conditions When training the classifier
-- It is assumed that all images have the same pixel size, identical to that used for training (here it is 0.416 um/pixel). It is not checked however. 
-  up to 20% (PixelSizeCheckFactor) different from the pixel size used for training the Ilastik classifier (PixelSizeUsedForIlastik)
-  
+- It is assumed that all images have about the same pixel size, identical to that used for training (here we used images with ~3-4 nm/pixel). It is not checked however.   
