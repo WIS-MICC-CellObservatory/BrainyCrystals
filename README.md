@@ -11,10 +11,10 @@ Software package: Fiji (ImageJ), Ilastik
 Workflow language: ImageJ macro
 
 <p align="center">
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/master/PNG/G3New32.png" width="250" title="Original image">
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/master/PNG/G3New32_Overlay_Manual.png" width="250" title="Overlay of domain borders after manual correction"> <br/> <br/>
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/master/PNG/G3New32_Area_Flatten_Manual.png" width="250" title="Domains colored by area value">
-<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/master/PNG/G3New32_Solidity_Flatten_Manual.png" width="250" title="Domains colored by solidity value"> 
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32.png" width="250" title="Original image">
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Overlay_Manual.png" width="250" title="Overlay of domain borders after manual correction"> <br/> <br/>
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Area_Flatten_Manual.png" width="250" title="Domains colored by area value">
+<img src="https://github.com/WIS-MICC-CellObservatory/BrainyCrystals/blob/main/PNG/G3New32_Solidity_Flatten_Manual.png" width="250" title="Domains colored by solidity value"> 
 	<br/> <br/> </p>
 
 It assumes that the samples are carefully posioned and sectioned so that z-projection capture their shape correctly, and that z-projection was done prior to running the macro
