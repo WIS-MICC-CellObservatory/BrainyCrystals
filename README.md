@@ -74,9 +74,9 @@ For each input image FN, the following output files are saved in ResultsSubFolde
  
 Overlay colors can be controled by *DomainColor* and *MeasureAreaColor*
 
-Summary.xls  		 - Table with one line for each input image files with average values of Mean and Median LocTchikness
-AllDetailedTable.xls - accumulate all per-file results
-QuantifyBrainyCrystalsDomains.txt - Parameters used during the latest run
+- Summary.xls  		 - Table with one line for each input image files with average values of Mean and Median LocTchikness
+- AllDetailedTable.xls - accumulate all per-file results
+- QuantifyBrainyCrystalsDomains.txt - Parameters used during the latest run
   
 ## Dependencies
 [Fiji](https://imagej.net/Citing) with ImageJ version > 1.53e (Check Help=>About ImageJ, and if needed use Help=>Update ImageJ...
