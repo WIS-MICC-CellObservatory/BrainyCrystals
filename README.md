@@ -5,6 +5,19 @@
 Measure shape features of brainy crystals from high resolution EM images, using ilastik boundary-based segmentation with multicut (with optional manual correction) or manualsegmentation.
 Measuring is limited to selected Regions-of-interest 
 
+This macro was used in:  <br/> <br/>
+<p align="center">
+	<strong>Unusual Surface Texture, Dimensions and Morphology Variations of Chiral and Single Crystals </strong><br/> <br/>
+	</p>
+	
+<p align="center">
+	<strong>Vivek Singh,Dr. Lothar Houben,Dr. Linda J. W. Shimon,Dr. Sidney R. Cohen,Ofra Golani,Dr. Yishay Feldman,Dr. Michal Lahav,Prof. Milko E. van der Boom </strong><br/> <br/>
+	</p>
+
+
+[https://doi.org/10.1038/s41467-020-20054-x](https://doi.org/10.26434/chemrxiv.14135156.v1)
+
+
 
 Software package: Fiji (ImageJ), Ilastik
 
